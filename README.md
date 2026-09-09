@@ -41,7 +41,7 @@ Data Validation & Transformation
      ↓
 Data Warehouse
      ↓
-SSAS Tabular Model
+SSAS Model
      ↓
 Power BI
      ↓
